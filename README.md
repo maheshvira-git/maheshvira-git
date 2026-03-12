@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mahesh Vira</p>
+<p align="left">20 years of Java expertise. I bridge the gap between complex business requirements and elegant technical solutions. By strictly adhering to KISS, DRY, and YAGNI principles, I deliver high-performance applications that are as efficient as they are easy to maintain.</p>
 
 ###
 
